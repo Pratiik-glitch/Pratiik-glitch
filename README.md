@@ -3,6 +3,7 @@
 # Hello World!, I'm Pratik, 
 ## A web enthusiast currently working on web applications and web development exploring and building innovative web solutions.<br>
 
+<br>
 
 🛜 currently working on my own projects,<br>👨🏼‍🎓 studying CSE with specialization in Data Science from SRM University - Kattankulathur<br>🎬 just started learning and doing projects in the field</i>
 
