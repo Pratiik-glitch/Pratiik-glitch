@@ -46,8 +46,7 @@ Currently working on web applications and development, exploring and building in
   <img alt="github-snake" src="https://raw.githubusercontent.com/Pratiik-glitch/Pratiik-glitch/output/github-snake.svg" />
 </picture>
 
----
+
 
 Let's connect and build something amazing together!
-```
 
