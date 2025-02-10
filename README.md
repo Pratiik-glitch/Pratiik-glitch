@@ -1,6 +1,6 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Pratik, a Web Developer 👋🏼:
+# Hello World!, I'm Pratik, A Web Developer 👋🏼:
 
 🛜 currently working on my own projects,<br>👨🏼‍🎓 studying CSE with specialization in Data Science from SRM University - Kattankulathur<br>🎬 just started learning and doing projects in the field</i>
 
