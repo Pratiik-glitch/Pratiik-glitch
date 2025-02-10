@@ -47,7 +47,7 @@ Currently working on web applications and development, exploring and building in
 </picture>
 
 ---
-ugvug
+
 Let's connect and build something amazing together!
-```
+``` j j jj
 
