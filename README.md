@@ -11,6 +11,7 @@
  I architect modern web applications and analyze data to build intelligent, resilient solutions. 
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Product+Designer;Product+Developer;Product+Designer&animation=type" alt="Typing Animation"/>
 </div>
