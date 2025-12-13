@@ -7,7 +7,8 @@
 ---
 
 
-# I'm Pratik  ## Developer
+# I'm Pratik  
+## Developer
 I architect modern web applications and analyze data to build intelligent, resilient solutions.
 
 
