@@ -8,12 +8,12 @@
 
 
 #
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand" /> Hi There! I'm Pratik
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand" /> Hi There! Pratik this side, I architect modern web applications and analyze data to build intelligent, resilient solutions. 
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Product+Designer;Product+Developer" alt="Typing Animation"/>
 </p>
-I architect modern web applications and analyze data to build intelligent, resilient solutions.
+
 
 
 ### 🚀 About Me:
