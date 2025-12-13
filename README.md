@@ -10,9 +10,9 @@
  # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand" /> Hi There! Pratik this side, 
  I architect modern web applications and analyze data to build intelligent, resilient solutions. 
 
-<p align="center">
-  <img src="https://animated-text-readme.vercel.app/api/animated-text?text=Product Designer;Product Developer&color=00FF00&**animation=transition**&font=Fira+Code&duration=1500&width=435" alt="Fade Animation Alternative"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Product+Designer;Product+Developer&animation=fade" alt="Fade Animation"/>
+</div>
 
 ### 🚀 About Me:
 - 🛜 Currently working on my own projects
