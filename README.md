@@ -14,7 +14,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Product+Designer;Product+Developer;Product+Designer&animation=type" alt="Typing Animation"/>
 </div>
- 🚀 About Me:
+
+ ### 🚀 About Me:
 - 🛜 Currently working on my own projects
 - 👨🏼‍🎓 Studying CSE with a specialization in Data Science at SRM University - Kattankulathur
 - 🎬 Just started learning and working on projects in the field
