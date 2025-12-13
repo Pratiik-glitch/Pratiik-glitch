@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pratik;A+Web+Enthusiast+%26+Developer;Building+innovative+solutions." alt="Typing Animation"/>
 </p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/Pratiik-glitch&theme=dark" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratiik-glitch&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 ---
