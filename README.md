@@ -1,4 +1,4 @@
-# Hello World! I'm Pratik  pratik-raj.vercel.app/
+# Hello World! I'm Pratik  
 
 ## A Web Enthusiast
 Currently working on web applications and development, exploring and building innovative web solutions.
