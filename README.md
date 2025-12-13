@@ -11,9 +11,8 @@
  I architect modern web applications and analyze data to build intelligent, resilient solutions. 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Product+Designer;Product+Developer&animation=fade" alt="Fade Animation"/>
+  <img src="https://animated-text-readme.vercel.app/api/animated-text?text=Product Designer;Product Developer&color=00FF00&**animation=transition**&font=Fira+Code&duration=1500&width=435" alt="Fade Animation Alternative"/>
 </div>
-
 
 ### 🚀 About Me:
 - 🛜 Currently working on my own projects
