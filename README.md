@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pratik;A+Web+Enthusiast;I architect modern web applications and analyze data to build intelligent, resilient solutions.;Building+innovative+solutions." alt="Typing Animation"/>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=530&lines=Hello+World!+I'm+Pratik;A+Web+Enthusiast+%26+Data+Scientist;I+architect+modern+web+applications;Building+intelligent%2C+resilient+solutions." alt="Typing Animation"/>
+</p>
 </p>
 
 ---
