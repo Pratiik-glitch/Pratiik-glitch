@@ -1,7 +1,15 @@
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pratik;A+Web+Enthusiast+;Building+innovative+solutions." alt="Typing Animation"/>
+</p>
+
+---
+
+
 # Hello World! I'm Pratik  
 
 ## A Web Enthusiast
-Currently working on web applications and development, exploring and building innovative web solutions.
+I architect modern web applications and analyze data to build intelligent, resilient solutions.
+
 
 ### 🚀 About Me:
 - 🛜 Currently working on my own projects
