@@ -8,7 +8,8 @@
 
 
 # I'm Pratik  
-## Developer
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=A+Web+Enthusiast+%26+ Product+Designer;Product+Developer" alt="Typing Animation"/>
+</p>
 I architect modern web applications and analyze data to build intelligent, resilient solutions.
 
 
