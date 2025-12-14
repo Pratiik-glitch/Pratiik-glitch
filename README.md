@@ -50,7 +50,7 @@
 <div align="center">
   
   <img src="https://img.shields.io/badge/FOCUS-Web%20Development-808080?style=flat-square&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-Data%20Science-9333EA?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%2FML-9333EA?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/FOCUS-Product%20Design-808080?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/FOCUS-Full%20Stack-00D9FF?style=flat-square&logo=full-stack&logoColor=white"/>
   <img src="https://img.shields.io/badge/FOCUS-Cloud-808080?style=flat-square&logo=google-cloud&logoColor=white"/>
