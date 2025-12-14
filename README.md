@@ -16,8 +16,8 @@
 </div>
 
 <div align="center">
-  
-  # Pratik
+
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand" />
   
   ### Web Enthusiast • Designer • Developer
   
