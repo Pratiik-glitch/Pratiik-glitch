@@ -95,20 +95,6 @@
 
 ---
 
-## 📅 Contributions Calendar
-
-<div align="center">
-  
-  ### Contributions in the last year
-  
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Pratiik-glitch&theme=radical&hide_border=true&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" alt="GitHub Streak" width="100%"/>
-  
-  <img src="https://github-contributions.vercel.app/api?username=Pratiik-glitch&theme=radical&hide_border=true" alt="Contribution Calendar" width="100%"/>
-  
-</div>
-
----
-
 ## 📊 GitHub Contribution Graph
 
 <div align="center">
