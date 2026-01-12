@@ -93,17 +93,6 @@
   
 </div>
 
----
-
-## 📊 GitHub Contribution Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiik-glitch&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=F700FF&line=00FF00&point=FFFFFF&area_color=F700FF" alt="GitHub Activity Graph" width="100%"/>
-  
-</div>
-
----
 
 ## 🐍 GitHub Contribution Snake
 
